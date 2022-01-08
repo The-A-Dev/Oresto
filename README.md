@@ -1,6 +1,9 @@
-# Web App Oresto
+# Web App Oresto 
+
 A web app for managing restaurants, developed using the MERN stack.
+
 <br>
+
 ![image](https://github.com/The-A-Dev/Oresto/blob/main/insng.jpg)
 ![image](https://github.com/The-A-Dev/Oresto/blob/main/signup.jpg)
 ![image](https://github.com/The-A-Dev/Oresto/blob/main/sd.jpg)
