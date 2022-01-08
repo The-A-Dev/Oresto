@@ -3,7 +3,7 @@ A web app for managing restaurants, developed using the MERN stack
 ![image](https://github.com/The-A-Dev/Oresto/blob/main/insng.jpg)
 ![image](https://github.com/The-A-Dev/Oresto/blob/main/signup.jpg)
 ![image](https://github.com/The-A-Dev/Oresto/blob/main/sd.jpg)
-![image](https://github.com/The-A-Dev/Oresto/blob/main/ress.jpg)
+![image](https://github.com/The-A-Dev/Oresto/blob/main/.jpg)
 ![image](https://github.com/The-A-Dev/Oresto/blob/main/os.jpg)
 ![image](https://github.com/The-A-Dev/Oresto/blob/main/ok.jpg)
 ![image](https://github.com/The-A-Dev/Oresto/blob/main/men.jpg)
