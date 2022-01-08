@@ -1,0 +1,58 @@
+let gerants = [
+  {
+    _id: "1",
+    nom: "Hassen Younsi",
+    age: 22,
+    numTel: 21548796,
+    restaurantID: "01",
+    compteID: "001",
+    etat: "Active",
+  },
+  {
+    _id: "2",
+    nom: "Omar Hajjaji",
+    age: 21,
+    numTel: 21658774,
+    restaurantID: "02",
+    compteID: "002",
+    etat: "ٌRejetée",
+  },
+  {
+    _id: "3",
+    nom: "Amir Ben Said",
+    age: 42,
+    numTel: 23564879,
+    restaurantID: "03",
+    compteID: "003",
+    etat: "Active",
+  },
+  {
+    _id: "4",
+    nom: "Adnen Khlif",
+    age: 33,
+    numTel: 51203306,
+    restaurantID: "04",
+    compteID: "004",
+    etat: "ٌRejetée",
+  },
+  {
+    _id: "5",
+    nom: "Ines Belhaj",
+    age: 30,
+    numTel: 56987847,
+    restaurantID: "05",
+    compteID: "005",
+    etat: "En Attente",
+  },
+  {
+    _id: "6",
+    nom: "Khaled Tlili",
+    age: 31,
+    numTel: 52656554,
+    restaurantID: "06",
+    compteID: "006",
+    etat: "En Attente",
+  },
+];
+
+export default gerants;

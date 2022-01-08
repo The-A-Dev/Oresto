@@ -1,0 +1,60 @@
+const avisData = [
+  {
+    clientID: "1",
+    restaurantID: "1",
+    nomAuteur: "le premier",
+    date: "01/01/2001",
+    nombreEtoile: 1,
+    commentaire: "1111111111111111111111111",
+  },
+  {
+    clientID: "5",
+    restaurantID: "5",
+    nomAuteur: "le cinq",
+    date: "05/05/2005",
+    nombreEtoile: 5,
+    commentaire: "5555555555555",
+  },
+  {
+    clientID: "2",
+    restaurantID: "2",
+    nomAuteur: "le deuxieme",
+    date: "02/02/2002",
+    nombreEtoile: 2,
+    commentaire: "2222222222222222222222",
+  },
+  {
+    clientID: "3",
+    restaurantID: "3",
+    nomAuteur: "le troisiem",
+    date: "03/03/2003",
+    nombreEtoile: 3,
+    commentaire: "333333333333333",
+  },
+  {
+    clientID: "4",
+    restaurantID: "4",
+    nomAuteur: "le quateriem",
+    date: "04/04/2004",
+    nombreEtoile: 4,
+    commentaire: "444444444444444",
+  },
+  {
+    clientID: "6",
+    restaurantID: "6",
+    nomAuteur: "Omar",
+    date: "16/11/2020",
+    nombreEtoile: 1,
+    commentaire: "Ceci est un commentaire",
+  },
+  {
+    clientID: "7",
+    restaurantID: "7",
+    nomAuteur: "Omar",
+    date: "17/07/2021",
+    nombreEtoile: 5,
+    commentaire: "Ceci est un autre commentaire",
+  },
+];
+
+export default avisData;
